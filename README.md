@@ -2,7 +2,7 @@
 
 A book shop demontration made with love by abhishek dana.
 
-![DemoImage]('https://raw.githubusercontent.com/abhishekdana1999/flutterbooks/master/simulator_screenshot_53ED37B9-EF19-4A1F-91AD-A79A38BB3BCD.png')
+!['demo image']('https://raw.githubusercontent.com/abhishekdana1999/flutterbooks/master/simulator_screenshot_53ED37B9-EF19-4A1F-91AD-A79A38BB3BCD.png')
 
 ## Getting Started
 
